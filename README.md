@@ -1,4 +1,4 @@
-# EL
+# Conda Setup
 e-learning
 
 #Conda setup
